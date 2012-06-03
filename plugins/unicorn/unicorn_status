@@ -8,7 +8,7 @@
 #
 
 # set path to your rails app
-RAILS_ROOT = "/path/to/rails/app"
+RAILS_ROOT = "/home/deploy/www/taskrabbit/current"
 
 module Munin
   class UnicornStatus
